@@ -1,0 +1,4 @@
+*.o
+*.app
+anr_app
+.DS_Store
