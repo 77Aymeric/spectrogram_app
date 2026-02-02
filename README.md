@@ -42,7 +42,3 @@ A real-time audio analysis tool for macOS that visualizes frequency data using a
 - `App.mm`: Main application entry point, UI implementation (WaterfallView, SpectrumView), and audio engine setup using `AVAudioEngine`.
 - `AudioProcessor.hpp`: Header file defining audio processing callbacks.
 - `Makefile`: Build script to compile the Objective-C++ code into a macOS application bundle.
-
-## License
-
-This project is open-source.
